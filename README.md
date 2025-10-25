@@ -8,5 +8,5 @@
 - 🔭 I’m have started working on a project. Feel free to check out.
 - Work in progress......
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
