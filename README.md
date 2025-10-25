@@ -5,7 +5,7 @@
 
 
 - 🧑‍💻 I am a data engineer with 3.5 years of experience.
-- 🔭 I’m have started working on a project. Feel free to check out.
+- 🔭 I have started working on a project. Feel free to check out.
 - Work in progress......
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
